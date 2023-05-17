@@ -1,5 +1,5 @@
 {
-	"name": "nyc payroll 2021 pipeline",
+	"name": "nyc payroll 2021 to SQL",
 	"properties": {
 		"activities": [
 			{

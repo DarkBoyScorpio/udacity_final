@@ -1,5 +1,5 @@
 {
-	"name": "nyc payroll sql to synapse",
+	"name": "nyc payroll data sql to synapse",
 	"properties": {
 		"activities": [
 			{

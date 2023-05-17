@@ -1,5 +1,5 @@
 {
-	"name": "Aggregate",
+	"name": "Aggregate pipeline",
 	"properties": {
 		"activities": [
 			{
