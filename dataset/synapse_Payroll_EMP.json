@@ -1,5 +1,5 @@
 {
-	"name": "EMP",
+	"name": "synapse_Payroll_EMP",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureSynapseAnalytics1",

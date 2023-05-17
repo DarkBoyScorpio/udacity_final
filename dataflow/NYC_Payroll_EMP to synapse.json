@@ -6,7 +6,7 @@
 			"sources": [
 				{
 					"dataset": {
-						"referenceName": "EmpMaster",
+						"referenceName": "datalake_EmpMaster",
 						"type": "DatasetReference"
 					},
 					"name": "source1"
@@ -15,7 +15,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "EMP",
+						"referenceName": "synapse_Payroll_EMP",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"

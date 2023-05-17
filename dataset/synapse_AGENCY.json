@@ -1,5 +1,5 @@
 {
-	"name": "AGENCY",
+	"name": "synapse_AGENCY",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureSynapseAnalytics1",

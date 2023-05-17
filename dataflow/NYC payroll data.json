@@ -6,7 +6,7 @@
 			"sources": [
 				{
 					"dataset": {
-						"referenceName": "nycpayroll_2021",
+						"referenceName": "datalake_nycpayroll_2021",
 						"type": "DatasetReference"
 					},
 					"name": "source1"
@@ -15,7 +15,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "SQL_NYC_payroll",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"

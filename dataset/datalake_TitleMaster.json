@@ -1,5 +1,5 @@
 {
-	"name": "TitleMaster",
+	"name": "datalake_TitleMaster",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",

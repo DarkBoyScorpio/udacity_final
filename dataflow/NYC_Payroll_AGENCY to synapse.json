@@ -6,7 +6,7 @@
 			"sources": [
 				{
 					"dataset": {
-						"referenceName": "AgencyMaster",
+						"referenceName": "datalake_AgencyMaster",
 						"type": "DatasetReference"
 					},
 					"name": "source1"
@@ -15,7 +15,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "AGENCY",
+						"referenceName": "synapse_AGENCY",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"

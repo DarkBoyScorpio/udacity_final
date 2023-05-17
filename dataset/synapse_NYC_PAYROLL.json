@@ -1,5 +1,5 @@
 {
-	"name": "NYC_PAYROLL",
+	"name": "synapse_NYC_PAYROLL",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureSynapseAnalytics1",
